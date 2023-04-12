@@ -1,2 +1,1 @@
-# python
-web3.py
+# python web3.py
